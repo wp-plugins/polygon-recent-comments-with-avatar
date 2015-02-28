@@ -27,3 +27,21 @@ Display recent comments in sidebar with user avatar, information, display by sor
 1. Polygon recent comments with avatar display.
 2. Plugin settings in WordPress widget panel.
 
+== Frequently Asked Questions ==
+
+= 
+
+How to hidden scrollbar when your comments display ?
+
+=
+
+You can set at "Height show (for scroll):" with large value (Example 1000).
+
+== Changelog ==
+
+= 1.0.1 =
+* Fixed: Issue with property "Show date ?". Thank https://profiles.wordpress.org/happyecho
+* Added: Show author link ?
+* Added: Avatar alignment: left, right, zigzag left to right or right to left.
+
+== Upgrade Notice ==
