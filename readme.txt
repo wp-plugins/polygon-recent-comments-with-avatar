@@ -35,11 +35,18 @@ How to hidden scrollbar when your comments display ?
 
 =
 
-You can set at "Height show (for scroll):" with large value (Example 1000).
+You can set at "Height show (for scroll):" with large value (Example 1000) or unchecked "Show scroll ?"
 
 == Changelog ==
 
+= 1.0.2 =
+* 01/03/2015
+* Added: Feedback at https://wordpress.org/support/topic/various-changes.
+* Added: Enable or disable scroll.
+* Added: Can put separator (html tags) with style (inline css require, default &lt;br/&gt;).
+
 = 1.0.1 =
+* 28/02/2015
 * Fixed: Issue with property "Show date ?". Thank https://profiles.wordpress.org/happyecho
 * Added: Show author link ?
 * Added: Avatar alignment: left, right, zigzag left to right or right to left.
