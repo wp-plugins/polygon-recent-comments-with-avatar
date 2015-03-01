@@ -3,18 +3,18 @@ Contributors: sanddesert88
 Donate link: http://cafefreelancer.com/vi/wordpress/wordpress-plugins/polygon-plugins/
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
-Tags: display recent comments, recent comments with avatar, recent comments information
+Tags: display recent comments, recent comments with avatar, recent comments information, recent comment with author gravatar, recent comments
 Requires at least: 3.8
-Tested up to: 4.1
+Tested up to: 4.1.1
 Stable tag: 1.6.3
 
-Polygon Recent Comments With Avatar: Recent comments with image avatar, support gravatar, date, user, scroll...
+Polygon Recent Comments With Avatar: Recent comments with avatar, support gravatar, date, user name, user link, scrollbar...
 
 == Description ==
 
-Display recent comments in sidebar with user avatar, information, display by sort (ASC, DESC), shuffle, scroll...
+Display recent comments in sidebar with user avatar/ gravatar support styles, information, active scrollbar when you have so much comments...
 <a href="http://wordpress.org/plugins/polygon-recent-comments-with-avatar/faq/" target="_blank">FAQ</a>
-<a href="http://cafefreelancer.com/vi/wordpress/wordpress-plugins/polygon-plugins/" target="_blank">Support</a>
+<a href="http://cafefreelancer.com/vi/plugin-hien-thi-binh-luan-moi-nhat-ho-tro-avatar-gravatar-polygon-recent-comments.html" target="_blank">Support and require in my blog</a>
 
 == Installation ==
 
