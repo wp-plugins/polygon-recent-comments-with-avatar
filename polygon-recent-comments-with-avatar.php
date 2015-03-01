@@ -103,7 +103,7 @@ class POLYGON_Widget_Recent_Comments extends WP_Widget {
                 //Separator;
                     $pseparator=($separate_info=='on')?$tag_and_styles_separator:'';
                     //<--Separator;
-                    echo 'Sep '.$pseparator;
+                    
                 foreach ((array) $comments as $key=>$comment) {
                     $post_title_current = get_the_title($comment->comment_post_ID);
                     $comment_link=($show_comment_link=='on')?get_comment_author_link():get_comment_author();
